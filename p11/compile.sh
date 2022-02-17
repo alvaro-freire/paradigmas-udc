@@ -1,0 +1,1 @@
+ocamlc -c tour.mli tour.ml
